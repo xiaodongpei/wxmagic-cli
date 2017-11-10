@@ -11,7 +11,7 @@
 
 基于 [Labrador](https://github.com/maichong/labrador) 框架构建。
 
-如需帮助，请加入QQ交流群 577607636
+如需帮助，请加入QQ交流群 438619981
 
 # 运行方式
 yarn install -g labrador
