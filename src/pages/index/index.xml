@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="usermotto">
+    <text class="user-motto">{{state.motto}}</text>
+  </view>
+  <component key="title"/>
+  <button type="primary" bindtap="handleChange">更换标题</button>
+</view>

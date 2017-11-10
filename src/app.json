@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#00BFFF",
+    "navigationBarTitleText": "命运纸牌",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  }
+}
