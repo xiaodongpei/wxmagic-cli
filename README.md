@@ -12,3 +12,16 @@ labrador build -c  // 删除没用的库
 labrador build -m // 强制压缩
 
 labrador watch  // 实时监听src下的文件变化 
+
+# 注意事项
+
+`.Labrador` 配置文件 需要将API_ROOT 修改成自己的域
+
+# 引入的库
+`al-request`
+
+`labrador-redux`
+
+`labrador`
+
+> 需要读懂其工作原理哦！！
